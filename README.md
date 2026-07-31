@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an aspiring IT Support Technician with a Bachelor's degree in Cybersecurity, CompTIA A+ certification, and IT Support training from Per Scholas.
+I'm an aspiring IT Support Technician with a A.A.S degree in Cybersecurity, CompTIA A+ certification, and IT Support training from Per Scholas.
 
 I enjoy troubleshooting technology, solving technical problems, and helping users resolve hardware, software, and networking issues. I'm currently seeking a Help Desk or Technical Support position where I can continue building my skills.
 
@@ -10,7 +10,7 @@ I enjoy troubleshooting technology, solving technical problems, and helping user
 
 ## Certifications
 
-- ✅ CompTIA A+
+- ✅ CompTIA A+ certified (June 2026)
 - ✅ Associate Degree in Cybersecurity
 - ✅ Per Scholas IT Support Professional Program
 
@@ -19,18 +19,16 @@ I enjoy troubleshooting technology, solving technical problems, and helping user
 ## Technical Skills
 
 ### Operating Systems
-- Windows 10
-- Windows 11
-- Windows Server
-- Linux
+- Windows 10 /11
+- Windows Server 2016/2022
+- Linux (Kali)
 
 ### IT Support
 - Hardware Troubleshooting
 - Software Installation
 - Printer Support
 - Password Resets
-- Microsoft Office
-- Microsoft 365
+-  Microsoft Excel, Outlook, Word, Azure, ServiceNow
 
 ### Networking
 - TCP/IP
@@ -50,6 +48,7 @@ I enjoy troubleshooting technology, solving technical problems, and helping user
 - Command Prompt
 - VirtualBox
 - Wireshark
+- Cisco Packet Tracer
 - GitHub
 
 ---
